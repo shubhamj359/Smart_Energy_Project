@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project uses Machine Learning (Logistic Regression) to predict whether a household's energy consumption is High or Low.
 
-## 🎯 Objective
+## 🎯 Objective 
 - Reduce electricity waste
 - Promote sustainability
 - Build a smart prediction system
